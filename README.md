@@ -1,2 +1,2 @@
 # datasciencecoursera
-coursera data science 
+coursera data science program
